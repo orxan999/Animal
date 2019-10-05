@@ -1,0 +1,8 @@
+html, body{
+    background-color: aqua;
+}
+.font{
+    color: red;
+    font-size: 45px;
+    font-family: 'Mansalva', cursive;
+}
